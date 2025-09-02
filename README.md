@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VVerger
 - 👀 I’m interested in Coding tools for 3d software
-- 🌱 I’m currently learning 3d animation
+- 🌱 I’m currently looking for a job
 
 
 
